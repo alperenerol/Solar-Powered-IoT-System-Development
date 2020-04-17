@@ -1,0 +1,1 @@
+30:AE:A4:41:66:D4  ESP32 MAC address
