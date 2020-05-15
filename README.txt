@@ -1,4 +1,3 @@
-Development of an IoT System for a Green Campus
 
    In this project, the main goal is to measure environmental data such as air pressure, air
 temperature consistently with appropriate sensors and serve this measured data to network of
